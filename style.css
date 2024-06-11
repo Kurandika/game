@@ -1,0 +1,30 @@
+.background{
+    background-image:url("background.gif");
+    background-size:105%;
+    overflow:hidden;
+}
+.score {
+    font-size: 50px;
+    font-weight: bold;
+    color: rgba(255, 0, 0, 0.665);
+    margin-top: 40px;
+    margin-left: 30px;
+    position: absolute;
+    padding: 20px 40px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 2px solid rgba(255, 0, 0, 0.665);
+}
+
+.boy{
+    height:200px;
+    margin-top:450px;
+    position: absolute;
+}
+.flame{
+    width:90px;
+    position: absolute;
+    margin-top:500px;
+
+}
